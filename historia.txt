@@ -4,12 +4,3 @@ Freddy Vega tiene 32 años y nació en Colombia,
 viviendo en todo el mundo
 Soy minexuz y tengo 19 años
 Mañana nos enfocaremos en su vida laboral
-<<<<<<< HEAD
-=======
-
-Experimento 1
-
-Experimento 2
-
-Master 1
->>>>>>> bd4ae62... exp 2
